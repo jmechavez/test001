@@ -9,5 +9,5 @@ func Barks() string {
 }
 
 func tags() string {
-	return "Tag1"
+	return "Tag1 Tag2"
 }
